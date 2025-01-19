@@ -1,8 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:vesti/constants/app_texts.dart';
-import '../components/inputField.dart';
-import '../constants/app_colors.dart';
-import '../main.dart';
+
+import '../../components/inputField.dart';
+import '../../constants/app_colors.dart';
+import '../../main.dart';
+import '../homeScreen/homeScreen.dart';
+
 
 class SignInScreen extends StatelessWidget {
   @override
